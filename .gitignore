@@ -1,0 +1,9 @@
+.DS_Store
+ext/*.cpp
+ext/*.bak
+ext/**/*.o
+ext/**/*.bundle
+ext/**/*.log
+ext/**/Makefile
+*.gem
+.rvmrc
